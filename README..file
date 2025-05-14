@@ -1,0 +1,35 @@
+ 🌤️ Weather App
+
+A sleek and responsive **Weather App** that shows real-time weather information based on a city name using **HTML**, **CSS**, and **JavaScript**. Powered by a public weather API (like OpenWeatherMap) for accurate results.
+
+---
+
+ 📋 Features
+
+- 🔍 Search weather by city
+- 🌡️ Shows temperature, humidity, and weather conditions
+- 📍 Optionally supports geolocation-based weather
+- 💨 Wind speed display
+- 🎨 Clean and responsive UI for all devices
+
+---
+
+ 🛠️ Technologies Used
+
+- HTML5 – Structure and layout  
+- CSS3 – Styling and responsiveness  
+- JavaScript (ES6) – API fetch and DOM manipulation  
+- Weather API – Real-time weather data (OpenWeatherMap or similar)  
+- Vercel – Deployment (optional)
+
+---
+
+📂 Project Structure
+
+```bash
+weather-app/
+├── index.html           # Main HTML file
+├── style.css            # Styling file
+├── script.js            # JavaScript logic and API calls
+├── README.md            # Project documentation
+└── .env (optional)      # API key storage (for advanced use)
